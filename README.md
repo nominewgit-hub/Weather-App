@@ -58,7 +58,7 @@ No external libraries or frameworks (e.g., React) were used to keep it vanilla a
 
 1. *Clone the Repository*:
    
-   git clone https://github.com/YOUR_USERNAME/weather-app-internee-task2.git
+   git clone https://https://github.com/nominewgit-hub/Weather-App
 
 2. *Navigate to the Project Folder*
    
@@ -131,3 +131,4 @@ Built by *Muhammad Noman* Khyber Pakhtunkhwa, Pakistan.
 
 
 #InterneePk #WebDevelopment #Frontend #HTMLCSSJS #WeatherApp #OpenSource
+
