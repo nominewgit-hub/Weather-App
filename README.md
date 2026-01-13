@@ -85,7 +85,7 @@ No additional dependencies or installations required — runs purely on client-s
 
 ## Live Demo
 
-[View Live on GitHub Pages](https://YOUR_USERNAME.github.io/weather-app-internee-task2/)  
+[View Live on GitHub Pages](https://nominewgit-hub.github.io/Weather-App/)  
 
 
 Alternatively, deploy to Netlify or Vercel for free:
@@ -128,5 +128,6 @@ Built by *Muhammad Noman* Khyber Pakhtunkhwa, Pakistan.
 - GitHub: [YOUR_USERNAME](https://github.com/nominewgit-hub)  
 - Location: Bannu, PK  
 - Internship: Internee.pk HTML/CSS/JS (Jan-Mar 2026)  
+
 
 #InterneePk #WebDevelopment #Frontend #HTMLCSSJS #WeatherApp #OpenSource
